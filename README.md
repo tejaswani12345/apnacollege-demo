@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is first git repository
 <br>
-Author-Tejaswani Nayanavari
+Author-Tejaswani (Nayanavari naidu)
